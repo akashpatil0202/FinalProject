@@ -1,0 +1,205 @@
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.navbar{
+    font-size: 20px;
+}
+
+.moduleHeadings{
+
+    font-size: 40px;
+    font-weight: 500;
+    font-style: "oblique";
+    margin-left: 36%;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+
+  .formsBackground{
+    
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+    border: 20px soid rgba(255, 255, 255, 0.3);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3) ;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+  }
+
+.moduleContents{
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 10px;
+    padding-top: 50px;
+    max-width: 500px;
+    padding:50px;
+    color: black;
+    text-align:center;
+    display: block;
+    text-align: left;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+}
+
+.healthDetailsHeading{
+   margin-left: 20%;
+}
+
+.healthDetails{
+    margin-top: 85px;
+    margin-left: 28%;
+}
+
+.ownerHeading{
+    margin-left: 28%;
+}
+
+.loginPage{
+    margin-top: 85px;
+    margin-left: 28%;
+}
+
+.loginHeading{
+    font-weight: 500;
+    color: black;
+}
+
+.traineeForm{
+    margin-top: 85px;
+  margin-left: 28%;
+}
+
+.traineeHeading{
+    margin-left: 20%;
+}
+
+.trainerForm{
+    margin-top: 85px;
+    margin-left: 27%;
+}
+
+.trainerHeading{
+    margin-left: 20%;
+}
+
+.workoutPlanHeading{
+    margin-left: 20%;
+}
+
+.workoutPlan{
+    margin-top: 85px;
+    margin-left: 27%;
+}
+
+.paymentDetailsHeading{
+    margin-left: 13%;
+}
+
+.paymentDetails{
+    margin-top: 85px;
+    margin-left: 28%;
+}
+
+.bMICalculatorHeading{
+    margin-left: 27%;
+}
+
+.bMICalculator{
+    margin-top: 85px;
+    margin-left: 26%;
+}
+
+.calorieCounterHeading{
+    margin-left: 28%;
+}
+
+.calorieCounter{ 
+    margin-top: 85px;
+    margin-left: 28%;
+}
+
+.membershipPlanHeading{
+    margin-left: 15%;
+}
+
+.membershipPlan{ 
+    margin-top: 85px;
+    margin-left: 28%;
+}
+
+.Quotes{
+    color: #08ffffeb;
+    font-weight: 900;
+}
+
+.routing{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.backgroundColor{
+    background-color: rgba(126, 145, 131, 0.26);
+}
+
+.backgroundImages{
+    max-width: 100%;
+    background-image: url(./Images/background1.jpg);
+    background-size: cover;
+}
+
+.ownerFormButton{
+    margin-left: 36%;
+    width: 25%;
+}
+
+.ownerForm{
+    margin-left: 27%;
+}
+
+.login{
+    max-width: max-content;
+}
+
+.navbar{
+   background: transparent;
+   height: 80px;
+   display: flex;
+   justify-content: center;
+   font-size: 1.2rem;
+   top: 0;
+   z-index: 999;
+   position: fixed;
+   width: 100%;
+  
+}
+
+.navbar.active{
+background: linear-gradient(90deg,rgba(66,2,194)0%,rgb(0,78,194)100%);
+}
+
+.homePageMargine{
+    margin-top: 75px;
+}
+
+.clock{
+    margin-top: 20;
+    position: absolute;
+    z-index: 100;
+   margin-left: 45%;
+ 
+  transform: scale(1.5);
+}
+
+.clockPositioning{
+    position: relative;
+}
